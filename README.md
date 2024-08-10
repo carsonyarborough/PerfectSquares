@@ -10,14 +10,14 @@ Examples:
 
 1212 returns:
 
-"12
+"12__
 12"
 Note: 4 digits so 2 squared (2x2 perfect square). 2 digits on each line.
 
 123123123 returns:
 
-"123
-123
+"123__
+123__
 123"
 Note: 9 digits so 3 squared (3x3 perfect square). 3 digits on each line.
 
